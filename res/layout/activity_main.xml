@@ -11,6 +11,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TestGithub tired 6nb" />
+        android:text="TestGithub tired 6nb 77pc" />
 
 </RelativeLayout>
